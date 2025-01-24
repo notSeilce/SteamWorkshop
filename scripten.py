@@ -290,7 +290,7 @@ class SteamWorkshopDownloader:
                 print(f"Current game: {self.game_name} [ID: {self.game_id}]\n" + "─" * 47)
                 print(" 1. Download mods from the links\n 2. Download mods from the collection\n 3. Change the game\n 4. Exit")
             else:
-                print("Игра не выбрана!\n 1. Выбрать игру\n 2. Выход")
+                print("Game not selected!\n 1. Select game\n 2. Exit")
             print("\n" + "─" * 47)
             choice = input("\nSelect an action: ").strip()
             if self.game_name:

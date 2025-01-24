@@ -1,7 +1,7 @@
 EN:
 Allows you to download mods/collections from the Steam Workshop without having purchased the game.
 All you need to do is add a link to the game's main page and a link to the mod or collection.
-All mods are stored in the '/games/<Game Name>/mods/' path.
+All mods are stored in the '/games/Game Name/mods/' path.
 
 Performance tested on CounterStrike 2, RimWorld, ProjectZomboid.
 (It works best on ProjectZomboid).
@@ -12,7 +12,7 @@ Also, the program supports parallel downloads, so if you have a slow internet, I
 RU:
 Позволяет без наличия купленной игры скачивать моды/коллекции из мастерской стим.
 От вас лишь требуется указать ссылку на главную страницу игры, а так же ссылку на моды или коллекцию.
-Все моды хранятся по пути "/games/<Название Игры>/mods/".
+Все моды хранятся по пути "/games/Название Игры/mods/".
 
 Проверял работоспособность на CounterStrike 2, RimWorld, ProjectZomboid.
 (Для ProjectZomboid она работает лучше всего.)

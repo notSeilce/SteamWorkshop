@@ -45,3 +45,10 @@ The program's behavior can be adjusted through the `config.json` file located in
     "MAX_CONCURRENT_DOWNLOADS": [Value],
     "LANGUAGE": "[en/ru]"
 }
+```
+
+## Mod Structure Support
+
+This downloader is designed to handle common Steam Workshop mod structures. However, some games or mods might use unique or unconventional folder layouts.
+
+If you encounter issues installing mods with unusual structures, or if you would like to request enhanced support for mods with specific folder layouts (especially for games other than Project Zomboid, Counter-Strike 2, and RimWorld), please reach out on Discord: **seilce**.
